@@ -23,6 +23,10 @@ namespace ConsoleApp5
 
                 Console.WriteLine("nombre 2 pls");
                 int ch2 = Convert.ToInt32(Console.ReadLine());
+                /* Les commandes d'en dessus me permet de definir le numéro numéro1 et le 2 et ën meme temps de les convertir de string a int. les phrases d'en dessus me permet aussi de définir  l'opérateur
+                 grace au console.readlines qui prend la réponse utilisateur et la retrenscri en  variable*/
+                
+                
                 switch (operateur)
                 {
 
