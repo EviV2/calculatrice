@@ -10,71 +10,56 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Chiffre number 1 pls");
-            int ch1  = Convert.ToInt32 (Console.ReadLine());
-            Console.WriteLine(" votre opérateur svp (*,+,-,/)");
 
-            string operateur = Console.ReadLine();
-            
-            Console.WriteLine("chiffre number 2 pls");
-            int ch2 = Convert.ToInt32 (Console.ReadLine());
-          
-           
-            switch (operateur) {
-            
+            Console.WriteLine(" bonjour");
+            while (true)
+                
+            {
+                Console.WriteLine("nombre 1 pls");
+                int ch1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(" votre opérateur svp (*,+,-,/)");
 
-                case "*":
-                    Console.WriteLine("la réponse est");
-                    Console.WriteLine(ch1 * ch2);
-                    
-                    Console.ReadLine();
-                    break;
-                case "+":
-                    Console.WriteLine("la réponse est");
-                    Console.WriteLine(ch1 + ch2);
-                    Console.ReadLine();
-                    break;
-                case "-":
-                    Console.WriteLine("la réponse est");
-                    Console.WriteLine(ch1 - ch2);
-                    
-                    Console.ReadLine();
-                    break;
-                case "/":
-                    Console.WriteLine("la réponse est");
-                    Console.WriteLine(ch1 / ch2);
-                   
-                    Console.ReadLine(); 
-                    break;
-                default: Console.WriteLine(" mais mais un chiffre c pas compliqué");
-                    break;
+                string operateur = Console.ReadLine();
+
+                Console.WriteLine("nombre 2 pls");
+                int ch2 = Convert.ToInt32(Console.ReadLine());
+                switch (operateur)
+                {
 
 
-                   
-                   
-                   
-                   
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+                    case "*":
+                        Console.WriteLine("la réponse est");
+                        Console.WriteLine(ch1 * ch2);
+
+                        Console.ReadLine();
+                        break;
+                    case "+":
+                        Console.WriteLine("la réponse est");
+                        Console.WriteLine(ch1 + ch2);
+                        Console.ReadLine();
+                        break;
+                    case "-":
+                        Console.WriteLine("la réponse est");
+                        Console.WriteLine(ch1 - ch2);
+
+                        Console.ReadLine();
+                        break;
+                    case "/":
+                        Console.WriteLine("la réponse est");
+                        Console.WriteLine(ch1 / ch2);
+
+                        Console.ReadLine();
+                        break;
+                    default:
+                        Console.WriteLine(" mais mais un chiffre c pas compliqué");
+                        break;
+                        
+
+                }
+                
+
+            } 
+             
             
             
             
@@ -82,65 +67,13 @@ namespace ConsoleApp5
 
         
         
+
         
         
         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                }
+
+   
     }
 }

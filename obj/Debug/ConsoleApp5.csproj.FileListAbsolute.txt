@@ -5,3 +5,10 @@ C:\Users\eliveya\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyR
 C:\Users\eliveya\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
 C:\Users\eliveya\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 C:\Users\eliveya\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\eliveya\source\repos\calculatrice\bin\Debug\ConsoleApp5.exe.config
+C:\Users\eliveya\source\repos\calculatrice\bin\Debug\ConsoleApp5.exe
+C:\Users\eliveya\source\repos\calculatrice\bin\Debug\ConsoleApp5.pdb
+C:\Users\eliveya\source\repos\calculatrice\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\eliveya\source\repos\calculatrice\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\eliveya\source\repos\calculatrice\obj\Debug\ConsoleApp5.exe
+C:\Users\eliveya\source\repos\calculatrice\obj\Debug\ConsoleApp5.pdb
