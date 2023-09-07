@@ -83,22 +83,8 @@ namespace ConsoleApp5
 
                 }
                 while (reco == "oui");// la fonction while ici permet de dir que si la personne qui repond a la question prédent dit oui il recommencera la boucle depuis le do
-               
-                
-                
-                
-                
-                
-                
+              
                 Console.ReadLine();// un console.ReadLine a la fin permet au code de ne pas bugger et de laisser les infos afficher quand on passe a la dernière étapes
-
-
-
-
-                                                                                                                                                                                                                                                                                                                           
-
-           
-           
 
         }
 
@@ -150,16 +136,4 @@ namespace ConsoleApp5
     }
 
     }
-
-
-
-
-
-
-
-
-
-
-       
-    
 
